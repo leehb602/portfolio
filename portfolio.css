@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+* {
+	margin: 0 auto;
+	background: #FAEBFF;
+}
+
+div {
+	margin-top: 5%;
+}
+
+.title {
+	font-size: 50px;
+	font-weight: bold;
+	margin: 5%;
+}
+
+.btn:hover {
+	cursor: pointer;
+}
+
+th {
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#info {
+	height: 450px;
+}
+
+table {
+	width: 90%;
+	height: 30px;
+	line-height: 30px;
+}
+
+#tabTable {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.category {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.category:hover {
+	cursor: pointer;
+}
+
+.eduTitle {
+	font-weight: bold;
+}
+
+.in {
+	text-indent: 40px;
+}
+
+img {
+	width: 700px;
+}
+
+#picture {
+	width: 132px;
+	height: 170px;
+}
